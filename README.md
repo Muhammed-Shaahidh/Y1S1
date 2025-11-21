@@ -1,2 +1,2 @@
-# Year 01 Semester 01
+# Code Practice
 I Upload my First year First semester Coding and Practices in Introduction to Programming module.
